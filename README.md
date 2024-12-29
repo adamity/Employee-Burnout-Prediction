@@ -62,6 +62,13 @@ Download the dataset from [this link](<https://www.kaggle.com/datasets/blurredma
     python src/04_training.py
     ```
 
+5. **PyCaret Implementation**:
+    This is an alternative to the above steps. It uses PyCaret to automate the entire process.
+
+    ```sh
+    python src/pycaret_pipeline.py
+    ```
+
 ## License
 
 This project is licensed under the MIT License.
